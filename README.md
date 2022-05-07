@@ -8,7 +8,7 @@ Directions:
 
 That's all it. Three easy and simple steps.
 
-In order to cancel a shutdown your can open command prompt and type shutdown /a to cancel the shutdown.
+In order to cancel a shutdown, you can open command prompt and type shutdown /a to cancel the shutdown.
 
 Also it is best to keep it on a USB that way you can plug it into someone's computer and run it or make an autorun USB creator to make it autorun when you plug it in the computer.
 
